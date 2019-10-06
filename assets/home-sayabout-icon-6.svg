@@ -1,0 +1,32 @@
+<svg width="32px" height="24px" viewBox="0 0 32 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <polygon id="path-1" points="0.5341 0.6015 27.945 0.6015 27.945 11.7485 0.5341 11.7485"></polygon>
+        <polygon id="path-3" points="0 0.965 22.5356 0.965 22.5356 10 0 10"></polygon>
+        <polygon id="path-5" points="0 24.3989 31.945 24.3989 31.945 0.9999 0 0.9999"></polygon>
+    </defs>
+    <g id="02-Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Homepage-Wireframe" transform="translate(-1018.000000, -3981.000000)">
+            <g id="Page-1" transform="translate(1018.000000, 3980.000000)">
+                <g id="Group-3" transform="translate(4.000000, 0.398900)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M22.3721,11.7485 L0.5341,11.7485 L0.5341,10.0485 L22.3721,10.0485 C24.5081,10.0485 26.2461,8.3105 26.2461,6.1745 C26.2461,4.0395 24.5081,2.3015 22.3721,2.3015 C20.2361,2.3015 18.4981,4.0395 18.4981,6.1745 L16.7991,6.1745 C16.7991,3.1015 19.2991,0.6015 22.3721,0.6015 C25.4451,0.6015 27.9451,3.1015 27.9451,6.1745 C27.9451,9.2485 25.4451,11.7485 22.3721,11.7485" id="Fill-1" fill="#BABDC2" mask="url(#mask-2)"></path>
+                </g>
+                <g id="Group-6" transform="translate(0.000000, 14.398900)">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <g id="Clip-5"></g>
+                    <path d="M18.0186,10 C15.5286,10 13.5016,7.974 13.5016,5.483 L15.2016,5.483 C15.2016,7.036 16.4646,8.3 18.0186,8.3 C19.5726,8.3 20.8356,7.036 20.8356,5.483 C20.8356,3.929 19.5726,2.666 18.0186,2.666 L-0.0004,2.666 L-0.0004,0.965 L18.0186,0.965 C20.5086,0.965 22.5356,2.992 22.5356,5.483 C22.5356,7.974 20.5086,10 18.0186,10" id="Fill-4" fill="#BABDC2" mask="url(#mask-4)"></path>
+                </g>
+                <mask id="mask-6" fill="white">
+                    <use xlink:href="#path-5"></use>
+                </mask>
+                <g id="Clip-8"></g>
+                <polygon id="Fill-7" fill="#BABDC2" mask="url(#mask-6)" points="0.057 7.4239 10.674 7.4239 10.674 5.7239 0.057 5.7239"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
