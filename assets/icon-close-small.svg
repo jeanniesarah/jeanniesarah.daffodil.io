@@ -1,15 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
-    <title>icon-close</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Desktop-Mocks-[Final]" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
-        <g id="04-Author's-Page" transform="translate(-1393.000000, -30.000000)" stroke="#02222B" stroke-width="2">
-            <g id="icon-close" transform="translate(1394.000000, 31.000000)">
-                <path d="M9.80610638,0.0187446809 L-6.38297872e-05,9.78725532" id="Stroke-1"></path>
-                <path d="M9.78721277,9.80597872 L0.0189148936,2.12765957e-05" id="Stroke-3"></path>
-            </g>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12" height="12" version="1.1" viewBox="0 0 12 12"><title>icon-close</title><desc>Created with Sketch.</desc><g id="Desktop-Mocks-[Final]" fill="none" fill-rule="evenodd" stroke="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"><g id="04-Author's-Page" stroke="#02222B" stroke-width="2" transform="translate(-1393.000000, -30.000000)"><g id="icon-close" transform="translate(1394.000000, 31.000000)"><path id="Stroke-1" d="M9.80610638,0.0187446809 L-6.38297872e-05,9.78725532"/><path id="Stroke-3" d="M9.78721277,9.80597872 L0.0189148936,2.12765957e-05"/></g></g></g></svg>
